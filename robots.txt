@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://vitdo-752.github.io/personal-website-vit-do/sitemap.xml
