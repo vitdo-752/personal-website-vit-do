@@ -1,0 +1,87 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: B.A. Economics & Cognitive Science, Minor in Data Science
+      institution: University of California, Berkeley
+      year: 2028
+      location: Berkeley, CA
+      description:
+        - "Expected graduation: May 2028"
+        - title: Relevant coursework
+          contents:
+            - "Data C88C: Computational Structures in Data Science"
+            - "UGBA 106: Marketing"
+            - "UGBA 190D: Innovation and Design Thinking in Business"
+            - "Social 167: Virtual Communities / Social Media"
+            - "Stat 20: Probability and Statistics"
+            - "CogSci 1: Intro to Cognitive Science"
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Product Management Intern, Online Travel Assistant
+      institution: "MoMo | Vietnam's #1 financial platform / super app"
+      year: Dec 2025 – Present
+      location: Ho Chi Minh City (Hybrid)
+      description:
+        - Drove weekly OKR read-outs across 7 teams (design, marketing, engineering, growth, and others) using scrum/agile workflows, aligning product strategy with high-impact user needs for 30M+ users across 5 travel verticals.
+        - Led the 0-to-1 launch of an AI-driven travel itinerary planner from user research to scheduled release, cutting manual booking time by 30% and securing senior leadership approval for the summer travel beta and Lunar New Year campaign.
+        - Building an AI-powered internal meeting booking and briefing bot to remove ~10 hours/week of workflow inefficiencies.
+
+    - title: AI Product Strategy Researcher
+      institution: Logitech | Leading consumer electronics brand
+      year: Jan – Jun 2026
+      location: San Jose, CA
+      description:
+        - Defined a physical AI strategy for gaming peripherals as a 5–15 year, technically grounded roadmap, translating emerging capabilities (real-time feedback systems, adaptive ergonomics, biometrics) into prioritized use-case narratives and ROI models.
+        - Synthesized a 97-page research report and 17 user interviews into a 30-slide deliverable for senior leadership, evaluating feasibility constraints and connecting unmet user pain points to differentiated AI-enabled product concepts.
+
+    - title: Marketing Intern
+      institution: ExtendMe | Personal AI assistant startup
+      year: Jun – Aug 2024
+      location: Remote
+      description:
+        - Increased beta product sign-ups by 115% by designing a WordPress landing page with a targeted SEO strategy and running 22 customer feedback interviews that shaped product messaging, personas, and journey maps.
+
+    - title: Marketing & UI/UX Design Intern
+      institution: Nuoc Solutions | Gates Foundation-funded water sustainability nonprofit
+      year: Jun 2023 – Aug 2024
+      location: Remote
+      description:
+        - Grew site traffic 78% to 4K+ monthly viewers by rebuilding the site in Figma and WordPress with a responsive layout, clearer visual hierarchy, and accessibility-minded contrast and navigation.
+        - Identified 5+ funnel friction points by combining site analytics with user interviews into personas and journey maps, then presented the resulting marketing strategy roadmap to the Board of Directors for unanimous approval.
+
+- title: Leadership & Activities
+  type: time_table
+  contents:
+    - title: 1st Place, PG&E National Home Electrification Challenge
+      institution: Case competition, 9 undergraduate and MBA finalist teams
+      year: Apr 2026
+      location: Oakland, CA
+      description:
+        - Designed a high-fidelity Figma prototype of a smart home energy and ambassador network app, modeling a <$100K deployment projected to drive 25% MAU, +10 NPS, and 15% higher electrification upgrade rates among app users.
+
+    - title: Co-Founder, Co-President & Account Manager
+      institution: Vietbay Teens | Cultural nonprofit
+      year: Aug 2021 – Present
+      location: Palo Alto, CA
+      description:
+        - Raised $115K for Vietnamese nonprofits through cultural events and fundraisers (1,300+ attendees), delegating operations across 300+ members, volunteers, and donors, including staff training, recruitment, and nonprofit filings.
+        - Partnered with organizations such as Vietnam Airlines and Lotus Foundation to create programs providing 225 scholarships to families with disabilities, shelter to 2K child trafficking victims, and 55K meals to cancer and COVID patients.
+
+    - title: Marketing Director
+      institution: Camp MAC | Middle school media production camp
+      year: Mar – Aug 2024
+      location: Palo Alto, CA
+      description:
+        - Increased enrollment by 38% (the largest applicant class in the camp's history) and raised $40K for student publications by producing digital and print marketing assets that earned 130K+ social impressions and coverage in 10 local publications.
+
+- title: Skills
+  type: map
+  contents:
+    - name: Product & Design
+      value: Figma, Jira, Asana, Claude Code, user research, personas & journey maps, prototyping
+    - name: Business & Analysis
+      value: Excel, Google Suite, PowerPoint, OKRs, ROI modeling, roadmapping
+    - name: Creative
+      value: Adobe InDesign, Photoshop, Canva, WordPress
